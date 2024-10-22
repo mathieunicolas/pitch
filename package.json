@@ -10,6 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@unovis/ts": "^1.4.4",
+    "@unovis/vue": "^1.4.4",
     "nuxt": "^3.13.2",
     "vue": "latest",
     "vue-router": "latest"
